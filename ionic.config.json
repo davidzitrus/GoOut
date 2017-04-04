@@ -1,4 +1,5 @@
 {
   "name": "myionicapp",
-  "app_id": ""
+  "app_id": "",
+  "defaultBrowser": true
 }
